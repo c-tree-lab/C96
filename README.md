@@ -6,7 +6,7 @@
 
 * Showdown
     * https://github.com/showdownjs/showdown
-* markdwon-it
+* markdown-it
     * https://github.com/markdown-it/markdown-it
 * `String.prototype.replace()` について
     * https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/replace
@@ -17,7 +17,7 @@
 * ベンチマーク結果
     * Showdown
         * https://github.com/c-tree-lab/WebAssembly-benchmark/tree/master/JavaScript_Showdown
-    * markdwon-it
+    * markdown-it
         * https://github.com/c-tree-lab/WebAssembly-benchmark/tree/master/JavaScript_markdown-it
     * WebAssembly（Rustを利用）
         * https://github.com/c-tree-lab/WebAssembly-benchmark/tree/master/Ruest_pulldown_cmark_wasm
